@@ -1,0 +1,78 @@
+
+[None, None, None]
+
+['win', 'loss', 'win']
+
+['win', 'loss', 'win']
+
+['win', 'loss', 'win']
+
+['win', 'loss', 'win']
+
+['loss', 'win', 'loss']
+
+['win', 'win', 'loss']
+
+['win', 'win', 'win']
+
+['loss', 'win', 'win']
+
+[('loss', 'normal', 'steel'), ('win', 'ghost', 'water'), ('win', 'dragon', 'fire')]
+
+['loss', 'loss', 'loss']
+
+['win', 'lose', 'draw', 'no bonus round', 'loss', 'no bonus round']
+
+['loss', 'no bonus round', 'win', 'no bonus round', 'loss', 'no bonus round']
+
+['win', 'no bonus round', 'win', 'no bonus round', 'loss', 'no bonus round']
+
+['loss', 'draw', 'loss', 'draw', 'loss', 'win']
+
+['loss', 'win', 'win']
+
+['win', 'lose', 'draw']
+
+['loss', 'loss', 'loss']
+
+['draw', 'lose', 'no bonus round']
+
+['win', 'win', 'loss']
+
+['no bonus round', 'no bonus round', 'no bonus round']
+
+['loss', 'win', 'loss']
+
+['no bonus round', 'no bonus round', 'no bonus round']
+
+['win', 'loss', 'loss']
+
+['draw', 'no bonus round', 'no bonus round']
+
+['win', 'loss', 'win']
+
+['win', 'draw', 'lose']
+
+['win', 'win', 'loss']
+
+['game over', 'game over', 'game over']
+
+['loss', 'loss', 'loss']
+
+['win', 'win', 'lose']
+
+['loss', 'loss', 'win']
+
+['draw', 'draw', 'no bonus round']
+
+['win', 'loss', 'loss']
+
+['lose', 'no bonus round', 'draw']
+
+['win', 'loss', 'draw']
+
+['no bonus round', 'no bonus round', 'no bonus round']
+
+['loss', 'win', 'win']
+
+['no bonus round', 'draw', 'no bonus round']
